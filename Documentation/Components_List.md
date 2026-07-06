@@ -1,0 +1,11 @@
+## Hardware Components
+- ESP32 Development Board
+- Solar Panel
+- Solar Charge Controller
+- 12V Battery
+- Battery Charge Controller
+- Relay Module
+- Voltage Sensor
+- Inverter
+- LCD Display
+- Jumper Wires
